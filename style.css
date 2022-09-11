@@ -1,0 +1,10 @@
+label {
+  border: 2px;
+  border-color: black;
+}
+
+.sumit {
+  border: 2px;
+  border-color: black;
+  border-style: groove;
+  border-radius: 2px;}
